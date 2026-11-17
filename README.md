@@ -39,4 +39,4 @@ The `.env.local` file is ignored by Git. Vite exposes `VITE_` values in browser 
 
 ## About the developer
 
-The developer is a master's student at Philipps University Marburg with full-stack web development experience. Their skills include React, JavaScript, Python/Django, and SQL. Skynow was built as a practical project to apply those skills to a useful, easy-to-use weather experience.
+I am a master's student at Philipps University Marburg with full-stack web development experience. My skills include React, JavaScript, Python/Django, and SQL. I built Skynow as a practical project to apply my frontend skills and connect a useful, easy-to-use weather experience to external data services.
